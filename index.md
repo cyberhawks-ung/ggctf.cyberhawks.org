@@ -12,6 +12,13 @@ Please fill out this form:
 ...and join our Discord!
 [https://discord.gg/mFA2rRBSKA](https://discord.gg/mFA2rRBSKA)
 
+### Eligibility
+
+You must:
+* Be 18 years of age
+* Be enrolled at a college or university
+* Have a .edu email address
+
 ## 🕘 When
 
 **June 7th-8th, 2025**
@@ -22,6 +29,11 @@ Competition opens 9AM and closes 5PM each day
 IN-PERSON at **Mike Cottrell College of Business**, in the Ballroom
 82 College Cir.
 Dahlonega, GA 30597
+
+### Lodging
+
+Lodging is not provided. There are many hotels in the
+Dahlonega area in a walkable distance to campus.
 
 
 ## 🏆 Challenges
@@ -34,3 +46,7 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
     🌐 Web Exploitation
     📡 Networking
 ...and more, including **special hands-on challenges!**
+
+### Prizes
+
+TDB.
