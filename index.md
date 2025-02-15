@@ -5,7 +5,7 @@ detail_image: images/banner.png
 detail_image_alt: Goldrush Gauntlet CTF 2025
 ---
 
-The Goldrush Gauntlet CTF 2025 is a **Jeopardy-style Capture-The-Flag competition** that will take place **in-person** on **June 7th-8th, 2025**, at the **Mike Cottrell College of Business in Dahlonega, GA**. To participate, [register here](https://forms.office.com/r/gxZKBWWs9T) and join our [Discord server](https://discord.gg/mFA2rRBSKA). There is a **$10 registration fee** at the door for non-UNG students.
+The Goldrush Gauntlet CTF 2025 is a **Jeopardy-style Capture-The-Flag competition** for **teams of 4** that will take place **in-person** on **June 7th-8th, 2025**, at the **Mike Cottrell College of Business in Dahlonega, GA**. To participate, [register here](https://forms.office.com/r/gxZKBWWs9T) and join our [Discord server](https://discord.gg/mFA2rRBSKA). There is a **$10 registration fee** at the door for non-UNG students.
 
 ## 📝 Event Details
 - 🗓️ **When:** June 7th-8th, 2025
