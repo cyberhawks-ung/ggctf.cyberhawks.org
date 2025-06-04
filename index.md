@@ -10,7 +10,7 @@ The Goldrush Gauntlet CTF 2025 is a **Jeopardy-style Capture-The-Flag competitio
 ## 📝 Event Details
 
 - 🗓️ **When:** June 7th-8th, 2025
-- 🕘 **Time:** 9AM - 5PM each day
+- 🕘 **Time:** 9AM Saturday - 5PM Sunday
 - 📍 **Where:** Online
 
 ### Eligibility
