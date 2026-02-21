@@ -5,7 +5,7 @@ detail_image: images/banner.png
 detail_image_alt: Goldrush Gauntlet CTF 2026
 ---
 
-The Goldrush Gauntlet CTF 2025 is a **Jeopardy-style Capture-The-Flag competition** for **teams of 4** that will take place **online** on **June 7th-8th, 2025**. To participate, [register here](https://forms.office.com/r/gxZKBWWs9T) and join our [Discord server](https://discord.gg/mFA2rRBSKA).
+The Goldrush Gauntlet CTF 2026 is a **Jeopardy-style Capture-The-Flag competition** for **solo** that will take place **online** on **March 13th-14th, 2026**. To participate, [register here](https://ung.ctfd.io) and join our [Discord server](https://discord.gg/mFA2rRBSKA).
 
 ## 📝 Event Details
 
