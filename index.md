@@ -31,22 +31,23 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
 ...and **more**.
 
 ### Prizes
-
-- 8 universal CompTIA exam vouchers
-- 15 GGCTF coins (Shipping address must be in the continental United States)
+- 3 Trophies
+- 8 Universal CompTIA Exam Vouchers
+- 15 GGCTF Coins (Shipping address must be in the continental United States)
 - and more to come
 
 ### Sponsors
 - CompTIA
+
 ## ❓ FAQ
 ***I've never competed can I do this?***
-We will have plenty of challenges for begginners and it is a great way to learn cyber. Our goal is to help you learn!
+We will have plenty of challenges for beginners and it is a great way to learn cyber. Our goal is to help you learn!
 
 ******
 
 ***Can I use AI and LLMs?***
 
-Yes.
+Yes. We are not responsible for helping you debug AI hallucinations.
 
 ***Is there any special software I need?***
 
