@@ -1,53 +1,53 @@
 ---
-title: Goldrush Gauntlet CTF 2025
+title: Goldrush Gauntlet CTF 2026
 description: Goldrush Gauntlet is a Capture-The-Flag cybersecurity competition hosted by the CyberHawks at the University of North Georgia.
 detail_image: images/banner.png
-detail_image_alt: Goldrush Gauntlet CTF 2025
+detail_image_alt: Goldrush Gauntlet CTF 2026
 ---
 
-The Goldrush Gauntlet CTF 2025 is a **Jeopardy-style Capture-The-Flag competition** for **teams of 4** that will take place **online** on **June 7th-8th, 2025**. To participate, [register here](https://forms.office.com/r/gxZKBWWs9T) and join our [Discord server](https://discord.gg/mFA2rRBSKA).
+The Goldrush Gauntlet CTF 2026 is a **Jeopardy-style Capture-The-Flag competition** for **solo** that will take place **online** on **March 13th-14th, 2026**. To participate, [register here](https://ung.ctfd.io) and join our [Discord server](https://discord.gg/mFA2rRBSKA).
 
 ## 📝 Event Details
 
-- 🗓️ **When:** June 7th-8th, 2025
-- 🕘 **Time:** 9AM Saturday - 5PM Sunday
+- 🗓️ **When:** March 13 - March 14, 2026
+- 🕘 **Time:** 6PM Saturday - 6PM Sunday
 - 📍 **Where:** Online
 
 ### Eligibility
 
 To compete, you must:
-* Be at least 18 years of age
-* Be enrolled at a college or university
+* Be enrolled at a U.S. college or university
 * Have an .edu email address
 
 ## 🏆 Challenges
 
-Compete in **teams of 4** in the **beginner or advanced bracket**
+Compete in **solo** against other students in a great learning experience and test of skill!
 
 A Jeopardy-style Capture-The-Flag competition, including categories such as:
     - 🔒 Cryptography
     - 🕵️ Forensics
     - 🌐 Web Exploitation
     - 📡 Networking
-...and more, including **special hands-on challenges!**
+...and **more**.
 
 ### Prizes
+- 3 Trophies
+- 8 Universal CompTIA Exam Vouchers
+- 15 GGCTF Coins (Shipping address must be in the continental United States)
+- and more to come
 
-- 8 universal CompTIA exam vouchers
-- More to come!
+### Sponsors
+- CompTIA
 
 ## ❓ FAQ
+***I've never competed can I do this?***
+We will have plenty of challenges for beginners and it is a great way to learn cyber. Our goal is to help you learn!
 
-***Why was the competition moved online?***
-
-For the availability of our competitors and staff, as well
-as for financial reasons.
-
-***Will there still be a registration fee now that it's online***
+******
 
 ***Can I use AI and LLMs?***
 
-Yes.
+Yes. We are not responsible for helping you debug AI hallucinations.
 
 ***Is there any special software I need?***
 
