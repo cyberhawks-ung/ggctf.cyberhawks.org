@@ -10,7 +10,7 @@ Goldrush Gauntlet 2026 is a **Jeopardy-style Capture-The-Flag solo competition**
 ## 📝 Event Details
 
 - 🗓️ **When:** March 13 - March 14, 2026
-- 🕘 **Time:** 6PM Friday - 6PM Sunday
+- 🕘 **Time:** 6PM Friday - 6PM Saturday
 - 📍 **Where:** Online
 
 ### Eligibility
