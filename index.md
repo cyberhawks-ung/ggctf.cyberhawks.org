@@ -37,7 +37,7 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
 - and more to come
 
 ### Sponsors
-![CompTIA](CompTIA.svg)
+[![CompTIA](CompTIA.svg)](https://www.comptia.org)
 
 ******
 
