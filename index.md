@@ -21,7 +21,7 @@ To compete, you must:
 
 ## 🏆 Challenges
 
-Compete in **solo** against other students in a great learning experience and test of skill!
+Compete **solo** against other students in a great learning experience and test of skill!
 
 A Jeopardy-style Capture-The-Flag competition, including categories such as:
     - 🔒 Cryptography
