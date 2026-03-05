@@ -33,11 +33,13 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
 ### Prizes
 - 3 Trophies
 - 8 Universal CompTIA Exam Vouchers
+- 3 Offsec Proving Grounds 1 year
 - 15 GGCTF Coins (Shipping address must be in the continental United States)
 - and more to come
 
 ### Sponsors
 [![CompTIA](CompTIA.svg)](https://www.comptia.org)
+[![OffSec](OFfSec.svg)](https://www.offsec.com/)
 
 ******
 
