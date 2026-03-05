@@ -38,8 +38,8 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
 - and more to come
 
 ### Sponsors
-<a href="https://www.comptia.org/"><img src="CompTIA.svg" height="60" style="background-color:white; padding:0.5rem; border-radius:1rem;"/></a>
-<a href="https://www.offsec.com/"><img src="Offsec.svg" height= "60" style="background-color:white; padding:0.5rem; border-radius:1rem;" /></a>
+<a href="https://www.comptia.org/"><img src="CompTIA.svg" height="60"/></a>
+<a href="https://www.offsec.com/"><img src="Offsec.svg" height= "60" /></a>
 ******
 
 ## ❓ FAQ
