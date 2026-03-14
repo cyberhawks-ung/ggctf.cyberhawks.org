@@ -40,6 +40,7 @@ A Jeopardy-style Capture-The-Flag competition, including categories such as:
 ### Sponsors
 <a href="https://www.comptia.org/"><img src="CompTIA.svg" height="60"/></a>
 <a href="https://www.offsec.com/"><img src="Offsec.svg" height= "60" /></a>
+<a href="https://training.cyberwave.network/"><img src="cwlogoblack.png" height= "60" /></a>
 
 ******
 
